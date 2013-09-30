@@ -1,1 +1,8 @@
 Hello, world!!
+
+This is a program that just prints "Hello, world!!" to stdout.
+
+To build, try commands like these:
+	gcc -o hello hello.c
+	g++ -o hello hello.cpp
+
